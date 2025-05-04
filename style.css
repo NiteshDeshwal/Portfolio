@@ -1,0 +1,23 @@
+*{
+    margin: 0px; 
+    padding: 0px;
+}
+
+header{
+    text-align: center;
+}
+
+table{
+    width: 100%;
+    text-align: center;
+    border: 1px solid black;
+}
+
+table ul{
+    list-style-type:none;
+}
+
+footer{
+    text-align: center;
+}
+
